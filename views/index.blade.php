@@ -1,3 +1,3 @@
 <x-guest-layout>
-    default theme 123
+    thử git log commit
 </x-guest-layout>
