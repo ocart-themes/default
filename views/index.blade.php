@@ -1,3 +1,3 @@
 <x-guest-layout>
-    default theme
+    default theme 123
 </x-guest-layout>
