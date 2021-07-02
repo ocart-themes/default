@@ -1,3 +1,3 @@
 <x-guest-layout>
-    nguyen test theme 123567
+    default theme
 </x-guest-layout>
